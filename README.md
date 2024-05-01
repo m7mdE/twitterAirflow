@@ -13,7 +13,7 @@
 
 <p>1- Launching AWS EC2 instance. By configuring the type of operating system we are going to use, Ubuntu, selecting the instance type (T2.small), and by setting up key pair to be able to login through instance from local machine.</p>
 
-<img src="./images/EC2_instance.png" alt="EC2 Instance"/>
+<img src="./images/EC2_instance.PNG" alt="EC2 Instance"/>
 
 <p>2- After installing packages and dependencies required for Apache Airflow.</p>
 
@@ -34,18 +34,17 @@
 <img src="./images/S3_Imported_Successfully.PNG" alt="Imported Successfully"/>
 
 
-
 #### Skills Developed
 <ul>
 <li>Reading file from S3 Bucket</li>
 <li>Automating tasks with Airflow</li>
-<li>Writing and automating ETL scripts<li>
-<li>Loading Clean data to S3 Bucket<li>
+<li>Writing and automating ETL scripts</li>
+<li>Loading Clean data to S3 Bucket</li>
 </ul>
 
 #### Tech Stack:
 <ul>
-<li>Python<li>
+<li>Python</li>
 <li>Cloud AWS: EC2, S3, IAM Role</li>
 <li>Ubuntu: bash script</li>
 <li>Airflow</li>
