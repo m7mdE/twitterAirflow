@@ -4,6 +4,14 @@
 
 <p>Automating the process of collecting, processing, and storing twitter clean data into Amazon S3 bucket, in order to use it for data analysis. We will be using Apache Airflow management tool to create and manage data pipeline.</p>
 
+#### Skills Developed
+<ul>
+<li>Reading file from S3 Bucket</li>
+<li>Automating tasks with Airflow</li>
+<li>Writing and automating ETL scripts</li>
+<li>Loading Clean data to S3 Bucket</li>
+</ul>
+
 #### Data Pipeline Architecture
 
 <img src="./images/Objective.png" alt="ETL Process"/>
@@ -33,14 +41,6 @@
 
 <img src="./images/S3_Imported_Successfully.PNG" alt="Imported Successfully"/>
 
-
-#### Skills Developed
-<ul>
-<li>Reading file from S3 Bucket</li>
-<li>Automating tasks with Airflow</li>
-<li>Writing and automating ETL scripts</li>
-<li>Loading Clean data to S3 Bucket</li>
-</ul>
 
 #### Tech Stack:
 <ul>
