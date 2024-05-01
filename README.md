@@ -19,19 +19,19 @@
 
 <p><i><b>One Notice</b>: Try setting up local environment so that it doesn't interfere with the root packages which it might break the EC2 instance, if some how there are any conflicts between packages.</i></p>
 
-<img src="./images/airflow_ui_login" alt="Airflow UI Login"/>
+<img src="./images/airflow_ui_login.PNG" alt="Airflow UI Login"/>
 
 <p>3- With a successful Laucnhing the Airflow UI we can see a the first twitter_DAG.</p>
 
-<img src="./images/first_dag_airflow" alt="First DAG"/>
+<img src="./images/first_dag_airflow.PNG" alt="First DAG"/>
 
 <p>4- By running the workflow, we can see that it completed successfully.</p>
 
-<img src="./images/Schedule_complete" alt="Schedule Completed"/>
+<img src="./images/Schedule_complete.PNG" alt="Schedule Completed"/>
 
 <p>5- Since the workflow has ran successfully, this means that it created the file in the AWS S3 Bucket</p>
 
-<img src="./images/S3_Imported_Successfully" alt="Imported Successfully"/>
+<img src="./images/S3_Imported_Successfully.PNG" alt="Imported Successfully"/>
 
 
 
