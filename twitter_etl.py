@@ -54,7 +54,7 @@ def run_twitter_etl():
         # drop rows that contains empty arrays in order for the ML model to work
         df.drop(df[df['clean_text'].apply(len) == 0].index, inplace=True)
 
-        # creating a clean data file
+        # saving a clean data into s3 bucket
         df.to_csv('s3://twitter-airflow-test-bucket/clean_data.csv')
 
     except Exception as e:
