@@ -42,10 +42,10 @@
 <img src="./images/S3_Imported_Successfully.PNG" alt="Imported Successfully"/>
 
 
-#### Tech Stack:
+#### Tech Stacks:
 <ul>
 <li>Python</li>
 <li>Cloud AWS: EC2, S3, IAM Role</li>
 <li>Ubuntu: bash script</li>
-<li>Airflow</li>
+<li>Apache Airflow</li>
 <li>Version Control: Git</li>
